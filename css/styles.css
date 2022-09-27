@@ -75,25 +75,31 @@ border: 1px solid;
 
 #textoycandado {
     height: 15vh;
-    background-color: hotpink;
+    background-color:whitesmoke;
 }
 
 #arribatextocanda {
-height: 7vh;
-background-color: cadetblue;
+height: 8vh;
+background-color: whitesmoke;
 }
 
-#trescol{
-    height: 6vh;
+/* #trescol{
+     height: 6vh;
     background-color: moccasin;
-    border: 1px solid;
-}
+    border: 1px solid; 
+} */
 
 
 #abajotexto {
 
 height: 6vh;
 background-color: lightgreen;
+
+}
+
+#enteruser {
+
+background-color: lightgoldenrodyellow;    
 
 }
 
