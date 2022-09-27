@@ -73,7 +73,33 @@ border: 1px solid;
 
 }
 
-#usupas {
+#textoycandado {
     height: 15vh;
     background-color: hotpink;
+}
+
+#arribatextocanda {
+height: 7vh;
+background-color: cadetblue;
+}
+
+#trescol{
+    height: 6vh;
+    background-color: moccasin;
+    border: 1px solid;
+}
+
+
+#abajotexto {
+
+height: 6vh;
+background-color: lightgreen;
+
+}
+
+#logusupas {
+
+height: 18vh;
+background-color: coral;
+
 }
