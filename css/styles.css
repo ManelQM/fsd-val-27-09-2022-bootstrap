@@ -61,7 +61,7 @@ border: 1px solid;
 
 #lorem {
 
-    background-color: lemonchiffon;
+    background-color: black;
 }
 
 
@@ -73,3 +73,7 @@ border: 1px solid;
 
 }
 
+#usupas {
+    height: 15vh;
+    background-color: hotpink;
+}
