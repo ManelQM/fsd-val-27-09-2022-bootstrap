@@ -21,32 +21,39 @@ border: 1px solid;
 
 }
 
-.login {
-    height: 3vh;
-    background-color: brown;
-
-
-}
-
 
 #medio {
 
 background-color: darkcyan;
-height: 36.4vh;
+height: 58.4vh;
 border: 1px solid;
 }
 
 #cajamedio {
 
     background-color: brown;
-    height: 36.4vh;
+    height: 58.4vh;
+    border: 1px solid;
 
 }
 
+#upboxlog {
 
+    background-color: aquamarine;
+    height: 25vh;
+    border: 1px solid;
 
+}
+#login {
+background-color: lavenderblush;
+
+}
+#lorem {
+background-color: mediumaquamarine;
+
+}
 #bajo {
-    height: 36.4vh;
+    height: 14.4vh;
     background-color: lightgray;
     border: 1px solid;
 
