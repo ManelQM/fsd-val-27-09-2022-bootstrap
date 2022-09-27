@@ -1,0 +1,55 @@
+
+.cont {
+
+    background-color: lightblue;
+    height: 100vh;
+    border: 1px solid;
+
+}
+
+.box {
+
+border: 1px solid;
+
+}
+
+#arriba {
+
+    height: 25vh;
+    background-color: gold ;
+    border: 1px solid;
+
+}
+
+.login {
+    height: 3vh;
+    background-color: brown;
+
+
+}
+
+
+#medio {
+
+background-color: darkcyan;
+height: 36.4vh;
+border: 1px solid;
+}
+
+#cajamedio {
+
+    background-color: brown;
+    height: 36.4vh;
+
+}
+
+
+
+#bajo {
+    height: 36.4vh;
+    background-color: lightgray;
+    border: 1px solid;
+
+
+}
+
