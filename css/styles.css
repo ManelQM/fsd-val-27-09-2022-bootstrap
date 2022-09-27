@@ -49,10 +49,22 @@ background-color: lavenderblush;
 
 
 }
-#lorem {
-background-color: mediumaquamarine;
+
+
+#upboxloren {
+
+background-color: lightblue;
+height: 11.5vh;
+border: 1px solid;
 
 }
+
+#lorem {
+
+    background-color: lemonchiffon;
+}
+
+
 #bajo {
     height: 14.4vh;
     background-color: lightgray;
